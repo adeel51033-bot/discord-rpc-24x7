@@ -1,0 +1,20 @@
+{
+    "APPLICATION_ID": "TERI_CLIENT_ID_YAHAN_DAAL",
+    "type": "PLAYING",
+    "name": "GTA V",
+    "details": "Online Mode",
+    "state": "Los Santos",
+    "assets": {
+        "large_image": "tere_wali_image_name",
+        "large_text": "GTA V",
+        "small_image": "small_image_name",
+        "small_text": "Level 50"
+    },
+    "buttons": [
+        {
+            "label": "Join Karo",
+            "url": "https://discord.gg/tera-server"
+        }
+    ],
+    "refreshInterval": 15
+}
