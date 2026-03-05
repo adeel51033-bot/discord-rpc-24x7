@@ -1,6 +1,6 @@
 const RPC = require("discord-rpc");
 
-const clientId = "YOUR_APPLICATION_ID"; // Discord application ID
+const clientId = "1477986091268177982"; // Discord application ID
 const rpc = new RPC.Client({ transport: "ipc" });
 
 rpc.on("ready", () => {
